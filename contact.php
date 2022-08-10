@@ -30,7 +30,7 @@
               <div class="row">
                   <div class="col-lg-6">
                       <div><i class="fa fa-phone"></i>&nbsp;+92 437 0292257</div>
-                      <div><i class="fa fa-envelope"></i>info@example.com</div>
+                      <div><i class="fa fa-envelope"></i>infoO@example.com</div>
                       <div><i class="fa fa-history"></i>&nbsp;8:50 AM – 5:00 PM</div>
                   </div>
                   <div class="col-lg-6">
